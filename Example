@@ -6,7 +6,13 @@ int a=0;
 int b=0;
 int c=a+b;
 int d=a-b;
+
+int mul=a*b;
+int div=a/b;
+
 System.out.println("Sum="+c);
 System.out.println("Sub="+d);
+System.out.println("Mul="+mul);
+System.out.println("Div="+div);
 }
 }
